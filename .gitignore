@@ -1,0 +1,14 @@
+### to ignore changes in a working copy
+.ignore_changes
+
+### output directories
+/.tmp/
+/out/
+/cache/
+
+### File Types
+*.img
+.bash_history
+
+### General annoyances ###
+.DS_Store
